@@ -2583,5 +2583,4 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001065/index.m3
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="甘肃",东方财经
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
-#EXTINF:-1 group-title="甘肃",第一财经
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226172/1.m3u8
+
